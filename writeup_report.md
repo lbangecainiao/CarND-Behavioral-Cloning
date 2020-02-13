@@ -106,7 +106,7 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 ![alt text][image2]
 
-To augment the data sat, I also flipped images and angles thinking that this would increase the generalization ability of the model. For example, here is an image that has then been flipped:
+To augment the dataset, I also flipped images and angles thinking that this would increase the generalization ability of the model. For example, here is an image that has then been flipped:
 
 ![alt text][image6]
 ![alt text][image7]
