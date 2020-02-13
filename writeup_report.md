@@ -13,7 +13,6 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/placeholder.png "Model Visualization"
 [image2]: ./examples/center_2020_02_08_13_09_42_157.jpg "Center lane driving"
 [image6]: ./examples/center_2020_02_08_13_10_22_249.jpg "Original image"
 [image7]: ./examples/flipped.jpg "Flipped Image"
@@ -100,10 +99,6 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 #### 2. Final Model Architecture
 
 The final model architecture (model.py lines 61-72) consisted of a Lambda layer, a Cropping layer, followed by 5 convolution layers with a RELU activation layer after each layer. A Flatten layer and 4 fully connected layers.
-
-Here is a visualization of the architecture (note: visualizing the architecture is optional according to the project rubric)
-
-![alt text][image1]
 
 #### 3. Creation of the Training Set & Training Process
 
